@@ -4,7 +4,7 @@ Wellcome to my repo. Introducting the Arçelik , Grundig and Beko Smart TV Remot
 Here example power off command :
 
     string ipoftv = "192.168.1.45"
-    InteractiveAPI.tvip = ipoftv
+    InteractiveAPI.tvip = "http://" + ipoftv
     InteractiveAPI.Power();
 # There is all commands:
 IP Input:
