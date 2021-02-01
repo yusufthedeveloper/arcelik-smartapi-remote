@@ -1,0 +1,36 @@
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Inter@ctive tv remote.exe.config
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Inter@ctive tv remote.exe
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Inter@ctive tv remote.pdb
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.Modules.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.SQLite.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.Wpf.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Telerik.WinControls.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\TelerikCommon.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.Modules.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.SQLite.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\IronPython.Wpf.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Telerik.WinControls.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter_ctive_tv_remote.Form1.resources
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter_ctive_tv_remote.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.exe.licenses
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.exe
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.pdb
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yusuf\source\repos\Inter@ctive tv remote\Inter@ctive tv remote\obj\Debug\Inter@ctive tv remote.csproj.ResolveComReference.cache
